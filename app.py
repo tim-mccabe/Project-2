@@ -1,4 +1,5 @@
 import pymongo
+from flask_cors import CORS
 from flask import Flask, jsonify
 
 #establish mongo connection
