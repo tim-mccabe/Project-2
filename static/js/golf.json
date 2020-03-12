@@ -1,0 +1,2204 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.792235,
+          -74.972227
+        ]
+      },
+      "properties": {
+        "Rank": "1",
+        "Course Name": "PINE VALLEY G.C.",
+        "Yards": "7181",
+        "Par": "70",
+        "Points": "72.0078",
+        "Location": "Pine Valley N.J.",
+        "Architect": "George Crump & H.S. Colt",
+        "Year Built": "(1918)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2017)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.502354,
+          -82.022577
+        ]
+      },
+      "properties": {
+        "Rank": "2",
+        "Course Name": "AUGUSTA NATIONAL G.C.",
+        "Yards": "7435",
+        "Par": "72",
+        "Points": "71.5810",
+        "Location": "Augusta Ga.",
+        "Architect": "Alister MacKenzie & Bobby Jones",
+        "Year Built": "(1933)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.580509,
+          -121.974148
+        ]
+      },
+      "properties": {
+        "Rank": "3",
+        "Course Name": "CYPRESS POINT CLUB",
+        "Yards": "6524",
+        "Par": "72",
+        "Points": "69.6830",
+        "Location": "",
+        "Architect": "Alister MacKenzie & Robert Hunter",
+        "Year Built": "(1929)",
+        "Restoration Architect": "Jeff Markow",
+        "Year Restored": "(2004)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.894252,
+          -72.439777
+        ]
+      },
+      "properties": {
+        "Rank": "4",
+        "Course Name": "SHINNECOCK HILLS G.C.",
+        "Yards": "7445",
+        "Par": "70",
+        "Points": "69.2526",
+        "Location": "",
+        "Architect": "William Flynn",
+        "Year Built": "(1931)",
+        "Restoration Architect": "Bill Coore & Ben Crenshaw",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.526148,
+          -79.82686899999999
+        ]
+      },
+      "properties": {
+        "Rank": "5",
+        "Course Name": "OAKMONT C.C.",
+        "Yards": "7255",
+        "Par": "71",
+        "Points": "68.9218",
+        "Location": "Oakmont Pa.",
+        "Architect": "Henry Fownes",
+        "Year Built": "(1903)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2014)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.002115,
+          -75.311825
+        ]
+      },
+      "properties": {
+        "Rank": "6",
+        "Course Name": "MERION G.C. (East)",
+        "Yards": "6996",
+        "Par": "70",
+        "Points": "67.8860",
+        "Location": "",
+        "Architect": "Hugh Wilson",
+        "Year Built": "(1912)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.569888,
+          -121.949766
+        ]
+      },
+      "properties": {
+        "Rank": "7",
+        "Course Name": "PEBBLE BEACH G. LINKS",
+        "Yards": "6828",
+        "Par": "72",
+        "Points": "67.5261",
+        "Location": "",
+        "Architect": "Jack Neville & Douglas Grant",
+        "Year Built": "(1919)",
+        "Restoration Architect": "Arnold Palmer & Thad Layton",
+        "Year Restored": "(2016)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.915639,
+          -72.449685
+        ]
+      },
+      "properties": {
+        "Rank": "8",
+        "Course Name": "NATIONAL G. LINKS OF AMERICA",
+        "Yards": "6935",
+        "Par": "72",
+        "Points": "67.3855",
+        "Location": "Southampton N.Y.",
+        "Architect": "C.B. Macdonald",
+        "Year Built": "(1911)",
+        "Restoration Architect": "Karl Olson",
+        "Year Restored": "(1994)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.855487,
+          -101.092794
+        ]
+      },
+      "properties": {
+        "Rank": "9",
+        "Course Name": "SAND HILLS G.C.",
+        "Yards": "7089",
+        "Par": "71",
+        "Points": "66.3549",
+        "Location": "",
+        "Architect": "Bill Coore & Ben Crenshaw",
+        "Year Built": "(1995)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.280167999999996,
+          -71.948782
+        ]
+      },
+      "properties": {
+        "Rank": "10",
+        "Course Name": "FISHERS ISLAND CLUB",
+        "Yards": "6615",
+        "Par": "70",
+        "Points": "66.1937",
+        "Location": "Fishers Island N.Y.",
+        "Architect": "Seth Raynor & Charles Banks",
+        "Year Built": "(1926)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2000)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.957914,
+          -73.753538
+        ]
+      },
+      "properties": {
+        "Rank": "11",
+        "Course Name": "WINGED FOOT G.C. (West)",
+        "Yards": "7426",
+        "Par": "72",
+        "Points": "66.1885",
+        "Location": "Mamaroneck N.Y.",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1923)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2017)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.860346000000003,
+          -80.04735
+        ]
+      },
+      "properties": {
+        "Rank": "12",
+        "Course Name": "SEMINOLE G.C.",
+        "Yards": "6836",
+        "Par": "72",
+        "Points": "65.9329",
+        "Location": "Juno Beach Fla.",
+        "Architect": "Donald Ross",
+        "Year Built": "(1929)",
+        "Restoration Architect": "Bill Coore & Ben Crenshaw",
+        "Year Restored": "(2017)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.702604,
+          -86.23465300000001
+        ]
+      },
+      "properties": {
+        "Rank": "13",
+        "Course Name": "CRYSTAL DOWNS C.C.",
+        "Yards": "6560",
+        "Par": "70",
+        "Points": "65.6377",
+        "Location": "Frankfort Mich.",
+        "Architect": "Alister MacKenzie & Perry Maxwell",
+        "Year Built": "(1931)",
+        "Restoration Architect": "Tom Doak",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.849607,
+          -88.115714
+        ]
+      },
+      "properties": {
+        "Rank": "14",
+        "Course Name": "CHICAGO G.C.",
+        "Yards": "6877",
+        "Par": "70",
+        "Points": "65.5659",
+        "Location": "Wheaton Ill.",
+        "Architect": "C.B. Macdonald",
+        "Year Built": "(1894)",
+        "Restoration Architect": "Seth Raynor(1922)/Tom Doak",
+        "Year Restored": "(2002)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.965569,
+          -72.725673
+        ]
+      },
+      "properties": {
+        "Rank": "15",
+        "Course Name": "FRIAR'S HEAD G.C.",
+        "Yards": "7071",
+        "Par": "71",
+        "Points": "65.2092",
+        "Location": "Baiting Hollow N.Y.",
+        "Architect": "Bill Coore & Ben Crenshaw",
+        "Year Built": "(2002)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.140718,
+          -83.14094399999999
+        ]
+      },
+      "properties": {
+        "Rank": "16",
+        "Course Name": "MUIRFIELD VILLAGE G.C.",
+        "Yards": "7392",
+        "Par": "72",
+        "Points": "65.2030",
+        "Location": "Dublin Ohio",
+        "Architect": "Jack Nicklaus & Desmond Muirhead",
+        "Year Built": "(1974)",
+        "Restoration Architect": "Jack Nicklaus",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.193806,
+          124.389921
+        ]
+      },
+      "properties": {
+        "Rank": "17",
+        "Course Name": "PACIFIC DUNES",
+        "Yards": "6633",
+        "Par": "7164.9775",
+        "Points": "",
+        "Location": "Bandon Ore.",
+        "Architect": "Tom Doak",
+        "Year Built": "(2001)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.315031,
+          -71.147826
+        ]
+      },
+      "properties": {
+        "Rank": "18",
+        "Course Name": "THE COUNTRY CLUB (Clyde/Squirrel)",
+        "Yards": "6753",
+        "Par": "70",
+        "Points": "64.9361",
+        "Location": "Chestnut Hill Mass.",
+        "Architect": "Willie Campbell",
+        "Year Built": "(1895)",
+        "Restoration Architect": "Alex Campbell(1902)/Gil Hanse",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.071313,
+          -118.423381
+        ]
+      },
+      "properties": {
+        "Rank": "19",
+        "Course Name": "LOS ANGELES C.C. (North)",
+        "Yards": "7530",
+        "Par": "71",
+        "Points": "64.7659",
+        "Location": "Los Angeles",
+        "Architect": "George C. Thomas Jr. & Gil Hanse",
+        "Year Built": "(1921)",
+        "Restoration Architect": "Geoff Shackelford & Jim Wagner",
+        "Year Restored": "(2010)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.545085,
+          -83.277016
+        ]
+      },
+      "properties": {
+        "Rank": "20",
+        "Course Name": "OAKLAND HILLS C.C. (South)",
+        "Yards": "7445",
+        "Par": "72",
+        "Points": "/ 64.7535Bloomfield Hills",
+        "Location": "Mich.",
+        "Architect": "Donald Ross",
+        "Year Built": "(1917)",
+        "Restoration Architect": "Rees Jones",
+        "Year Restored": "(2006)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.851259000000006,
+          -87.73513100000001
+        ]
+      },
+      "properties": {
+        "Rank": "21",
+        "Course Name": "WHISTLING STRAITS (Straits)",
+        "Yards": "7790",
+        "Par": "72",
+        "Points": "64.6465",
+        "Location": "Haven Wis.",
+        "Architect": "Pete Dye",
+        "Year Built": "(1998)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.113044,
+          -77.532834
+        ]
+      },
+      "properties": {
+        "Rank": "22",
+        "Course Name": "OAK HILL C.C. (East)",
+        "Yards": "7152",
+        "Par": "70",
+        "Points": "64.6417",
+        "Location": "Rochester N.Y.",
+        "Architect": "Donald Ross",
+        "Year Built": "(1925)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2010)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.050069,
+          -118.501323
+        ]
+      },
+      "properties": {
+        "Rank": "23",
+        "Course Name": "RIVIERA C.C.",
+        "Yards": "7040",
+        "Par": "71",
+        "Points": "64.5878",
+        "Location": "Pacific Palisades Calif.",
+        "Architect": "George C. Thomas Jr. & W.P. Bell",
+        "Year Built": "(1926)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.640882,
+          -80.02986899999999
+        ]
+      },
+      "properties": {
+        "Rank": "24",
+        "Course Name": "THE OCEAN COURSE",
+        "Yards": "7356",
+        "Par": "72",
+        "Points": "64.5348",
+        "Location": "Kiawah Island S.C.",
+        "Architect": "Pete Dye & Alice Dye",
+        "Year Built": "(1991)",
+        "Restoration Architect": "Pete Dye",
+        "Year Restored": "(2011)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.090405,
+          -83.07496
+        ]
+      },
+      "properties": {
+        "Rank": "25",
+        "Course Name": "WADE HAMPTON G.C.",
+        "Yards": "7395",
+        "Par": "72",
+        "Points": "64.4646",
+        "Location": "Cashiers N.C.",
+        "Architect": "Tom Fazio",
+        "Year Built": "(1987)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.258654,
+          -115.107324
+        ]
+      },
+      "properties": {
+        "Rank": "26",
+        "Course Name": "SHADOW CREEK",
+        "Yards": "7560",
+        "Par": "72",
+        "Points": "64.2344",
+        "Location": "North Las Vegas Nev.",
+        "Architect": "Tom Fazio & Steve Wynn",
+        "Year Built": "(1990)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2008)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.091643,
+          -97.847999
+        ]
+      },
+      "properties": {
+        "Rank": "27",
+        "Course Name": "PRAIRIE DUNES C.C.",
+        "Yards": "6947",
+        "Par": "70",
+        "Points": "64.0759",
+        "Location": "Hutchinson Kan.",
+        "Architect": "Perry Maxwell",
+        "Year Built": "(1937)",
+        "Restoration Architect": "Press Maxwell(1957) & Dave Axland",
+        "Year Restored": "(2014)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.087497,
+          -85.04414399999999
+        ]
+      },
+      "properties": {
+        "Rank": "28",
+        "Course Name": "THE HONORS COURSE",
+        "Yards": "7450",
+        "Par": "72",
+        "Points": "63.9746",
+        "Location": "Ooltewah Tenn.",
+        "Architect": "Pete Dye",
+        "Year Built": "(1983)",
+        "Restoration Architect": "Pete Dye",
+        "Year Restored": "(2008)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.196264,
+          -79.473608
+        ]
+      },
+      "properties": {
+        "Rank": "29",
+        "Course Name": "PINEHURST RESORT (No. 2)",
+        "Yards": "7588",
+        "Par": "72",
+        "Points": "63.8172",
+        "Location": "Pinehurst N.C.",
+        "Architect": "Donald Ross",
+        "Year Built": "(1935)",
+        "Restoration Architect": "Bill Coore & Ben Crenshaw",
+        "Year Restored": "(2010)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.877129,
+          -84.32696700000001
+        ]
+      },
+      "properties": {
+        "Rank": "30",
+        "Course Name": "PEACHTREE G.C.",
+        "Yards": "7414",
+        "Par": "72",
+        "Points": "63.7396",
+        "Location": "Atlanta",
+        "Architect": "Robert Trent Jones & Bobby Jones",
+        "Year Built": "(1947)",
+        "Restoration Architect": "Bob Cupp",
+        "Year Restored": "(2005)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.857623,
+          -92.577013
+        ]
+      },
+      "properties": {
+        "Rank": "31",
+        "Course Name": "THE ALOTIAN CLUB",
+        "Yards": "7500",
+        "Par": "72",
+        "Points": "63.7310",
+        "Location": "Roland Ark.",
+        "Architect": "Tom Fazio",
+        "Year Built": "(2004)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.617354,
+          -116.76623300000001
+        ]
+      },
+      "properties": {
+        "Rank": "32",
+        "Course Name": "GOZZER RANCH G. & LAKE C.",
+        "Yards": "7317",
+        "Par": "72",
+        "Points": "63.7068",
+        "Location": "Harrison Idaho",
+        "Architect": "Tom Fazio",
+        "Year Built": "(2007)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.709886,
+          -122.494657
+        ]
+      },
+      "properties": {
+        "Rank": "33",
+        "Course Name": "THE OLYMPIC CLUB (Lake)",
+        "Yards": "6934",
+        "Par": "71",
+        "Points": "63.6777",
+        "Location": "San Francisco",
+        "Architect": "Sam Whiting",
+        "Year Built": "(1924)",
+        "Restoration Architect": "Bill Love",
+        "Year Restored": "(2016)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.070384999999995,
+          -95.94548
+        ]
+      },
+      "properties": {
+        "Rank": "34",
+        "Course Name": "SOUTHERN HILLS C.C.",
+        "Yards": "7184",
+        "Par": "71",
+        "Points": "63.4031",
+        "Location": "Tulsa Okla.",
+        "Architect": "Perry Maxwell",
+        "Year Built": "(1936)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.71174,
+          -122.47647099999999
+        ]
+      },
+      "properties": {
+        "Rank": "35",
+        "Course Name": "SAN FRANCISCO G.C.",
+        "Yards": "6836",
+        "Par": "71",
+        "Points": "63.3742",
+        "Location": "San Francisco",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1924)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.186003,
+          -124.39086999999999
+        ]
+      },
+      "properties": {
+        "Rank": "36",
+        "Course Name": "BANDON DUNES",
+        "Yards": "6732",
+        "Par": "72",
+        "Points": "63.3655",
+        "Location": "Bandon Ore.",
+        "Architect": "David McLay Kidd",
+        "Year Built": "(1999)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.745954,
+          -73.452899
+        ]
+      },
+      "properties": {
+        "Rank": "37",
+        "Course Name": "BETHPAGE STATE PARK (Black)",
+        "Yards": "7465",
+        "Par": "71",
+        "Points": "63.2976",
+        "Location": "Farmingdale N.Y.",
+        "Architect": "Joseph H. Burbeck & A.W. Tillinghast",
+        "Year Built": "(1936)",
+        "Restoration Architect": "Rees Jones",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.066741,
+          -82.785987
+        ]
+      },
+      "properties": {
+        "Rank": "38",
+        "Course Name": "THE GOLF CLUB",
+        "Yards": "7439",
+        "Par": "72",
+        "Points": "63.1712",
+        "Location": "New Albany Ohio",
+        "Architect": "Pete Dye",
+        "Year Built": "(1967)",
+        "Restoration Architect": "Pete Dye",
+        "Year Restored": "(2013)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.911007,
+          -72.455751
+        ]
+      },
+      "properties": {
+        "Rank": "39",
+        "Course Name": "SEBONACK G.C.",
+        "Yards": "7512",
+        "Par": "72",
+        "Points": "63.1402",
+        "Location": "Southampton N.Y.",
+        "Architect": "Jack Nicklaus & Tom Doak",
+        "Year Built": "(2006)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.537713000000004,
+          -79.867076
+        ]
+      },
+      "properties": {
+        "Rank": "40",
+        "Course Name": "PIKEWOOD NATIONAL G.C.",
+        "Yards": "7649",
+        "Par": "72",
+        "Points": "63.0881",
+        "Location": "Morgantown W. Va.",
+        "Architect": "J. Robert Gwynne & John Raese",
+        "Year Built": "(2009)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.705217,
+          -74.327997
+        ]
+      },
+      "properties": {
+        "Rank": "41",
+        "Course Name": "BALTUSROL G.C. (Lower)",
+        "Yards": "7400",
+        "Par": "72",
+        "Points": "63.0290",
+        "Location": "Springfield N.J.",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1922)",
+        "Restoration Architect": "Rees Jones",
+        "Year Restored": "(2014)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.246134999999995,
+          -88.398494
+        ]
+      },
+      "properties": {
+        "Rank": "42",
+        "Course Name": "ERIN HILLS G. CSE.",
+        "Yards": "7800",
+        "Par": "72",
+        "Points": "62.7609",
+        "Location": "Erin Wis.",
+        "Architect": "Michael Hurdzan & Dana Fry & Ron Whitten",
+        "Year Built": "(2006)",
+        "Restoration Architect": "Dana Fry",
+        "Year Restored": "(2013)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.00098,
+          -87.346458
+        ]
+      },
+      "properties": {
+        "Rank": "43",
+        "Course Name": "VICTORIA NATIONAL G.C.",
+        "Yards": "7242",
+        "Par": "72",
+        "Points": "62.7167",
+        "Location": "Newburgh Ind.",
+        "Architect": "Tom Fazio",
+        "Year Built": "(1998)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.181217,
+          -84.333969
+        ]
+      },
+      "properties": {
+        "Rank": "44",
+        "Course Name": "CAMARGO CLUB",
+        "Yards": "6659",
+        "Par": "7",
+        "Points": "062.7111",
+        "Location": "Indian Hill Ohio",
+        "Architect": "Seth Raynor & Charles Banks",
+        "Year Built": "(1927)",
+        "Restoration Architect": "Tom Doak",
+        "Year Restored": "(2000)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.582518,
+          -121.95831899999999
+        ]
+      },
+      "properties": {
+        "Rank": "45",
+        "Course Name": "SPYGLASS HILL G. CSE.",
+        "Yards": "6960",
+        "Par": "72",
+        "Points": "62.6761",
+        "Location": "Pebble Beach",
+        "Architect": "Robert Trent Jones",
+        "Year Built": "(1966)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(1996)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.419593,
+          -102.26279699999999
+        ]
+      },
+      "properties": {
+        "Rank": "46",
+        "Course Name": "BALLYNEAL G.C.",
+        "Yards": "7147",
+        "Par": "71",
+        "Points": "62.6718",
+        "Location": "Holyoke Colo.",
+        "Architect": "Tom Doak",
+        "Year Built": "(2006)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.840779,
+          -87.933245
+        ]
+      },
+      "properties": {
+        "Rank": "47",
+        "Course Name": "BUTLER NATIONAL G.C.",
+        "Yards": "7523",
+        "Par": "71",
+        "Points": "62.5935",
+        "Location": "Oak Brook Ill.",
+        "Architect": "George Fazio & Tom Fazio",
+        "Year Built": "(1974)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.442721999999996,
+          -104.898651
+        ]
+      },
+      "properties": {
+        "Rank": "48",
+        "Course Name": "CASTLE PINES G.C.",
+        "Yards": "7701",
+        "Par": "72",
+        "Points": "62.5820",
+        "Location": "Castle Rock Colo.",
+        "Architect": "Jack Nicklaus",
+        "Year Built": "(1981)",
+        "Restoration Architect": "Jack Nicklaus & Jim Lipe",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.199933,
+          -81.393834
+        ]
+      },
+      "properties": {
+        "Rank": "49",
+        "Course Name": "TPC SAWGRASS (Players Stadium)",
+        "Yards": "7245",
+        "Par": "72",
+        "Points": "62.4413",
+        "Location": "Ponte Verde Beach Fla.",
+        "Architect": "Pete Dye & Alice Dye",
+        "Year Built": "(1980)",
+        "Restoration Architect": "Steve Wenzloff",
+        "Year Restored": "(2016)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.185824,
+          -124.39090800000001
+        ]
+      },
+      "properties": {
+        "Rank": "50",
+        "Course Name": "OLD MACDONALD",
+        "Yards": "6944",
+        "Par": "71",
+        "Points": "62.4135",
+        "Location": "Bandon Ore.",
+        "Architect": "Tom Doak & Jim Urbina",
+        "Year Built": "(2010)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7257,
+          -73.6432
+        ]
+      },
+      "properties": {
+        "Rank": "51",
+        "Course Name": "GARDEN CITY G.C.",
+        "Yards": "6922",
+        "Par": "73",
+        "Points": "62.412",
+        "Location": "5 Garden City N.Y.",
+        "Architect": "Devereux Emmet",
+        "Year Built": "(1899)",
+        "Restoration Architect": "Walter Travis (1913) & Tom Doak",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9595,
+          -73.7545
+        ]
+      },
+      "properties": {
+        "Rank": "52",
+        "Course Name": "WINGED FOOT G.C. (East)",
+        "Yards": "6808",
+        "Par": "72",
+        "Points": "62.3774",
+        "Location": "Mamaroneck N.Y.",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1923)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9665,
+          -88.04804399999999
+        ]
+      },
+      "properties": {
+        "Rank": "53",
+        "Course Name": "MEDINAH C.C. (No. 3)",
+        "Yards": "7657",
+        "Par": "72",
+        "Points": "62.3690",
+        "Location": "Medinah Ill.",
+        "Architect": "Tom Bendelow",
+        "Year Built": "(1928)",
+        "Restoration Architect": "Rees Jones",
+        "Year Restored": "(2009)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.945786,
+          -95.25021
+        ]
+      },
+      "properties": {
+        "Rank": "54",
+        "Course Name": "WHISPERING PINES G.C.",
+        "Yards": "7473",
+        "Par": "72",
+        "Points": "62.2766",
+        "Location": "Trinity Texas",
+        "Architect": "Chet Williams",
+        "Year Built": "(2000)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.298417,
+          -87.840612
+        ]
+      },
+      "properties": {
+        "Rank": "55",
+        "Course Name": "SHOREACRES",
+        "Yards": "6729",
+        "Par": "70",
+        "Points": "62.2752",
+        "Location": "Lake Bluff Ill.",
+        "Architect": "Seth Raynor",
+        "Year Built": "(1921)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.603455,
+          -121.948617
+        ]
+      },
+      "properties": {
+        "Rank": "56",
+        "Course Name": "MONTEREY PENINSULA C.C. (Shore)",
+        "Yards": "6873",
+        "Par": "72",
+        "Points": "62.2081",
+        "Location": "Pebble Beach",
+        "Architect": "Mike Strantz",
+        "Year Built": "(2004)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.007474,
+          -83.07520699999999
+        ]
+      },
+      "properties": {
+        "Rank": "57",
+        "Course Name": "SCIOTO C.C.",
+        "Yards": "7140",
+        "Par": "70",
+        "Points": "62.1702",
+        "Location": "Columbus Ohio",
+        "Architect": "Donald Ross",
+        "Year Built": "(1916)",
+        "Restoration Architect": "Michael Hurdzan & Jack Nicklaus",
+        "Year Restored": "(2008)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.915414,
+          -93.380033
+        ]
+      },
+      "properties": {
+        "Rank": "58",
+        "Course Name": "INTERLACHEN C.C.",
+        "Yards": "6981",
+        "Par": "72",
+        "Points": "62.1545",
+        "Location": "Edina Minn.",
+        "Architect": "Willie Watson",
+        "Year Built": "(1911)",
+        "Restoration Architect": "Brian Silva",
+        "Year Restored": "(2006)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.904963,
+          -70.606
+        ]
+      },
+      "properties": {
+        "Rank": "59",
+        "Course Name": "OLD SANDWICH G.C.",
+        "Yards": "6908",
+        "Par": "71",
+        "Points": "62.1544",
+        "Location": "Plymouth Mass.",
+        "Architect": "Bill Coore & Ben Crenshaw (2005)",
+        "Year Built": "41.904963",
+        "Restoration Architect": "-70.606797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.719808,
+          -97.505376
+        ]
+      },
+      "properties": {
+        "Rank": "60",
+        "Course Name": "OAK TREE NATIONAL",
+        "Yards": "7410",
+        "Par": "71",
+        "Points": "62.1249",
+        "Location": "Edmond Okla.",
+        "Architect": "Pete Dye & Alice Dye",
+        "Year Built": "(1976)",
+        "Restoration Architect": "Tripp Davis",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.705222,
+          -74.327968
+        ]
+      },
+      "properties": {
+        "Rank": "61",
+        "Course Name": "BALTUSROL G.C. (Upper)",
+        "Yards": "7348",
+        "Par": "72",
+        "Points": "62.0814",
+        "Location": "Springfield N.J.",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1922)",
+        "Restoration Architect": "Rees Jones",
+        "Year Restored": "(2014)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.469871000000005,
+          -87.683776
+        ]
+      },
+      "properties": {
+        "Rank": "62",
+        "Course Name": "CANYATA G.C.",
+        "Yards": "7266",
+        "Par": "72",
+        "Points": "62.0771",
+        "Location": "Marshall Ill.",
+        "Architect": "Bob Lohmann & Mike Benkusky",
+        "Year Built": "(2004)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.723527000000004,
+          -74.588352
+        ]
+      },
+      "properties": {
+        "Rank": "63",
+        "Course Name": "SOMERSET HILLS C.C.",
+        "Yards": "6784",
+        "Par": "71",
+        "Points": "62.0366",
+        "Location": "Bernardsville N.J.",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1918)",
+        "Restoration Architect": "Tom Doak",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.710179,
+          -80.302832
+        ]
+      },
+      "properties": {
+        "Rank": "64",
+        "Course Name": "PETE DYE G.C.",
+        "Yards": "7308",
+        "Par": "72",
+        "Points": "62.0220",
+        "Location": "Bridgeport W.Va.",
+        "Architect": "Pete Dye",
+        "Year Built": "(1994)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.733711,
+          -96.903139
+        ]
+      },
+      "properties": {
+        "Rank": "65",
+        "Course Name": "DALLAS NATIONAL G.C.",
+        "Yards": "7372",
+        "Par": "72",
+        "Points": "61.9804",
+        "Location": "Dallas",
+        "Architect": "Tom Fazio",
+        "Year Built": "(2002)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.636181,
+          -77.687369
+        ]
+      },
+      "properties": {
+        "Rank": "66",
+        "Course Name": "KINLOCH G.C.",
+        "Yards": "7203",
+        "Par": "72",
+        "Points": "61.9740",
+        "Location": "Manakin-Sabot Va",
+        "Architect": "Lester George & Vinny Giles",
+        "Year Built": "(2001)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.951797,
+          -72.174592
+        ]
+      },
+      "properties": {
+        "Rank": "67",
+        "Course Name": "MAIDSTONE CLUB",
+        "Yards": "6665",
+        "Par": "72",
+        "Points": "61.9365",
+        "Location": "East Hampton N.Y.",
+        "Architect": "Willie Park Jr. & Jack Park",
+        "Year Built": "(1924)",
+        "Restoration Architect": "Bill Coore & Ben Crenshaw",
+        "Year Restored": "(2013)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.456862,
+          -86.242552
+        ]
+      },
+      "properties": {
+        "Rank": "68",
+        "Course Name": "ARCADIA BLUFFS G.C.",
+        "Yards": "7300",
+        "Par": "72",
+        "Points": "61.9264",
+        "Location": "Arcadia Mich.",
+        "Architect": "Rick Smith & Warren Henderson",
+        "Year Built": "(2000)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.185068,
+          -124.39108799999998
+        ]
+      },
+      "properties": {
+        "Rank": "69",
+        "Course Name": "BANDON TRAILS",
+        "Yards": "6788",
+        "Par": "71",
+        "Points": "61.8574",
+        "Location": "Bandon Ore.",
+        "Architect": "Bill Coore & Ben Crenshaw",
+        "Year Built": "(2005)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.738170000000004,
+          -111.865178
+        ]
+      },
+      "properties": {
+        "Rank": "70",
+        "Course Name": "THE ESTANCIA CLUB",
+        "Yards": "7314",
+        "Par": "72",
+        "Points": "61.8021",
+        "Location": "Scottsdale",
+        "Architect": "Tom Fazio",
+        "Year Built": "(1995)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.965934999999995,
+          -73.761651
+        ]
+      },
+      "properties": {
+        "Rank": "71",
+        "Course Name": "QUAKER RIDGE G.C.",
+        "Yards": "7008",
+        "Par": "70",
+        "Points": "61.7439",
+        "Location": "Scarsdale N.Y.",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1918)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2011)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.643128000000004,
+          -104.962483
+        ]
+      },
+      "properties": {
+        "Rank": "72",
+        "Course Name": "CHERRY HILLS C.C.",
+        "Yards": "7348",
+        "Par": "72",
+        "Points": "61.7080",
+        "Location": "Cherry Hills Village Colo.",
+        "Architect": "William Flynn",
+        "Year Built": "(1923)",
+        "Restoration Architect": "Tom Doak",
+        "Year Restored": "(2009)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.584047999999996,
+          -70.763529
+        ]
+      },
+      "properties": {
+        "Rank": "73",
+        "Course Name": "ESSEX COUNTY CLUB",
+        "Yards": "6555",
+        "Par": "70",
+        "Points": "61.6472",
+        "Location": "Manchester Mass.",
+        "Architect": "Donald Ross",
+        "Year Built": "(1917)",
+        "Restoration Architect": "Tom Doak",
+        "Year Restored": "(2008)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.166821,
+          -87.941941
+        ]
+      },
+      "properties": {
+        "Rank": "74",
+        "Course Name": "MILWAUKEE C.C.",
+        "Yards": "7097",
+        "Par": "72",
+        "Points": "61.6431",
+        "Location": "River Hills Wis.",
+        "Architect": "H.S. Colt & C.H. Alison",
+        "Year Built": "(1929)",
+        "Restoration Architect": "Tom Doak",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.52197,
+          -87.685463
+        ]
+      },
+      "properties": {
+        "Rank": "75",
+        "Course Name": "OLYMPIA FIELDS C.C. (North)",
+        "Yards": "7190",
+        "Par": "70",
+        "Points": "61.6376",
+        "Location": "Olympia Fields Ill.",
+        "Architect": "Willie Park Jr.",
+        "Year Built": "(1922)",
+        "Restoration Architect": "Mark Mungeam",
+        "Year Restored": "(2014)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.609401,
+          -70.858082
+        ]
+      },
+      "properties": {
+        "Rank": "76",
+        "Course Name": "MYOPIA HUNT CLUB",
+        "Yards": "6539",
+        "Par": "72",
+        "Points": "61.5754",
+        "Location": "South Hamilton Mass.",
+        "Architect": "H.C. Leeds",
+        "Year Built": "(1898)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2013)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.624565000000004,
+          -116.274267
+        ]
+      },
+      "properties": {
+        "Rank": "77",
+        "Course Name": "THE QUARRY AT LA QUINTA",
+        "Yards": "7083",
+        "Par": "72",
+        "Points": "61.5487",
+        "Location": "La Quinta Calif.",
+        "Architect": "Tom Fazio",
+        "Year Built": "(1994)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.677727000000004,
+          -70.717343
+        ]
+      },
+      "properties": {
+        "Rank": "78",
+        "Course Name": "KITTANSETT CLUB",
+        "Yards": "6811",
+        "Par": "71",
+        "Points": "61.5483",
+        "Location": "Marion Mass.",
+        "Architect": "William Flynn & Frederic Hood",
+        "Year Built": "(1922)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.601777,
+          -121.94833500000001
+        ]
+      },
+      "properties": {
+        "Rank": "79",
+        "Course Name": "MONTEREY PENINSULA C.C. (Dunes)",
+        "Yards": "7090",
+        "Par": "72",
+        "Points": "61.5296",
+        "Location": "Seth Raynor",
+        "Architect": "(1924)",
+        "Year Built": "Tom Fazio",
+        "Restoration Architect": "Tim Jackson & David Kahn",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.996438,
+          -77.176478
+        ]
+      },
+      "properties": {
+        "Rank": "80",
+        "Course Name": "CONGRESSIONAL C.C. (Blue)",
+        "Yards": "7570",
+        "Par": "72",
+        "Points": "61.5115",
+        "Location": "Bethesda Md.",
+        "Architect": "Robert Trent Jones",
+        "Year Built": "(1962)",
+        "Restoration Architect": "Rees Jones",
+        "Year Restored": "(2010)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.220223,
+          -73.900734
+        ]
+      },
+      "properties": {
+        "Rank": "81",
+        "Course Name": "HUDSON NATIONAL G.C.",
+        "Yards": "7151",
+        "Par": "70",
+        "Points": "61.4845",
+        "Location": "Croton-on-Hudson N.Y.",
+        "Architect": "Tom Fazio",
+        "Year Built": "(1996)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.594661,
+          -74.389916
+        ]
+      },
+      "properties": {
+        "Rank": "82",
+        "Course Name": "PLAINFIELD C.C.",
+        "Yards": "7091",
+        "Par": "72",
+        "Points": "61.4727",
+        "Location": "Edison N.J.",
+        "Architect": "Donald Ross",
+        "Year Built": "(1921)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2010)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.258963,
+          -81.671666
+        ]
+      },
+      "properties": {
+        "Rank": "83",
+        "Course Name": "CALUSA PINES G.C.",
+        "Yards": "7203",
+        "Par": "72",
+        "Points": "61.4559",
+        "Location": "Naples Fla.",
+        "Architect": "Michael Hurdzan & Dana Fry",
+        "Year Built": "(2001)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.242849,
+          -85.472042
+        ]
+      },
+      "properties": {
+        "Rank": "84",
+        "Course Name": "VALHALLA G.C.",
+        "Yards": "7540",
+        "Par": "72",
+        "Points": "61.3786",
+        "Location": "Louisville",
+        "Architect": "Jack Nicklaus",
+        "Year Built": "(1987)",
+        "Restoration Architect": "Jack Nicklaus",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.011815999999996,
+          -75.409086
+        ]
+      },
+      "properties": {
+        "Rank": "85",
+        "Course Name": "ARONIMINK G.C.",
+        "Yards": "7267",
+        "Par": "70",
+        "Points": "61.3607",
+        "Location": "Newtown Square Pa.",
+        "Architect": "Donald Ross",
+        "Year Built": "(1928)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2017)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.43327,
+          -119.61531799999999
+        ]
+      },
+      "properties": {
+        "Rank": "86",
+        "Course Name": "THE VALLEY CLUB OF MONTECITO",
+        "Yards": "6610",
+        "Par": "72",
+        "Points": "61.3551",
+        "Location": "Montecito Calif.",
+        "Architect": "Alister MacKenzie & Robert Hunter",
+        "Year Built": "(1929)",
+        "Restoration Architect": "Tom Doak",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.193373,
+          -70.89778000000001
+        ]
+      },
+      "properties": {
+        "Rank": "87",
+        "Course Name": "BOSTON G.C.",
+        "Yards": "7062",
+        "Par": "71",
+        "Points": "61.3515",
+        "Location": "Hingham Mass.",
+        "Architect": "Gil Hanse",
+        "Year Built": "(2004)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.742691,
+          -83.643563
+        ]
+      },
+      "properties": {
+        "Rank": "88",
+        "Course Name": "INVERNESS CLUB",
+        "Yards": "7323",
+        "Par": "71",
+        "Points": "61.332",
+        "Location": "0Toledo Ohio",
+        "Architect": "Donald Ross",
+        "Year Built": "(1919)",
+        "Restoration Architect": "Andrew Green",
+        "Year Restored": "(2018)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.124194,
+          -73.861501
+        ]
+      },
+      "properties": {
+        "Rank": "89",
+        "Course Name": "SLEEPY HOLLOW C.C",
+        "Yards": "6902",
+        "Par": "70",
+        "Points": "61.3308",
+        "Location": "C.B. Macdonald",
+        "Architect": "A.W. Tillinghast",
+        "Year Built": "(1915)",
+        "Restoration Architect": "Gil Hanse",
+        "Year Restored": "(2017)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.15275,
+          -81.835581
+        ]
+      },
+      "properties": {
+        "Rank": "90",
+        "Course Name": "DIAMOND CREEK G.C.",
+        "Yards": "7175",
+        "Par": "70",
+        "Points": "61.207",
+        "Location": "5Banner Elk N.C.",
+        "Architect": "Tom Fazio",
+        "Year Built": "(2003)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.511562,
+          -116.87041
+        ]
+      },
+      "properties": {
+        "Rank": "91",
+        "Course Name": "THE G.C. AT BLACK ROCK",
+        "Yards": "7130",
+        "Par": "72",
+        "Points": "61.2020",
+        "Location": "Coeur d’Alene Idaho",
+        "Architect": "Jim Engh",
+        "Year Built": "(2003)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.24345,
+          -82.949656
+        ]
+      },
+      "properties": {
+        "Rank": "92",
+        "Course Name": "DOUBLE EAGLE CLUB",
+        "Yards": "7175",
+        "Par": "72",
+        "Points": "61.1950",
+        "Location": "Galena Ohio",
+        "Architect": "Jay Morrish & Tom Weiskopf",
+        "Year Built": "(1992)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.997,
+          -93.5409
+        ]
+      },
+      "properties": {
+        "Rank": "93",
+        "Course Name": "SPRING HILL G.C.",
+        "Yards": "7035",
+        "Par": "72",
+        "Points": "61.1569",
+        "Location": "Wayzata Minn.",
+        "Architect": "Tom Fazio",
+        "Year Built": "(1999)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.753862,
+          -88.486464
+        ]
+      },
+      "properties": {
+        "Rank": "94",
+        "Course Name": "RICH HARVEST LINKS",
+        "Yards": "7704",
+        "Par": "72",
+        "Points": "61.1128",
+        "Location": "Sugar Grove Ill",
+        "Architect": "Jerry Rich & Greg Martin",
+        "Year Built": "1999",
+        "Restoration Architect": "Jerry Rich",
+        "Year Restored": "(2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.926513,
+          -79.977907
+        ]
+      },
+      "properties": {
+        "Rank": "95",
+        "Course Name": "YEAMANS HALL CLUB",
+        "Yards": "6808",
+        "Par": "70",
+        "Points": "61.0890",
+        "Location": "Charleston S.C.",
+        "Architect": "Seth Raynor & Charles Banks",
+        "Year Built": "(1926)",
+        "Restoration Architect": "Jim Urbina",
+        "Year Restored": "(2016)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.534669,
+          -121.86853899999998
+        ]
+      },
+      "properties": {
+        "Rank": "96",
+        "Course Name": "THE PRESERVE G.C.",
+        "Yards": "7138",
+        "Par": "72",
+        "Points": "61.0619",
+        "Location": "Carmel Calif.",
+        "Architect": "Tom Fazio & J. Michael Poellot & Sandy Tatum",
+        "Year Built": "(2000)",
+        "Restoration Architect": "Tom Fazio",
+        "Year Restored": "(2015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.727082,
+          -87.77591600000001
+        ]
+      },
+      "properties": {
+        "Rank": "97",
+        "Course Name": "BLACKWOLF RUN (River)",
+        "Yards": "7404",
+        "Par": "72",
+        "Points": "61.0451",
+        "Location": "Kohler Wis.",
+        "Architect": "Pete Dye",
+        "Year Built": "(1990)",
+        "Restoration Architect": "Pete Dye",
+        "Year Restored": "(2010)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.124646999999996,
+          -80.271688
+        ]
+      },
+      "properties": {
+        "Rank": "98",
+        "Course Name": "OLD TOWN CLUB",
+        "Yards": "7038",
+        "Par": "70",
+        "Points": "61.0033",
+        "Location": "Winston-Salem N.C.",
+        "Architect": "Perry Maxwell",
+        "Year Built": "(1939)",
+        "Restoration Architect": "Bill Coore & Ben Crenshaw",
+        "Year Restored": "(2013)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.946528,
+          -86.19302900000001
+        ]
+      },
+      "properties": {
+        "Rank": "99",
+        "Course Name": "CROOKED STICK G.C.",
+        "Yards": "7516",
+        "Par": "7",
+        "Points": "260.9908",
+        "Location": "Carmel Ind.",
+        "Architect": "Pete Dye",
+        "Year Built": "(1967)",
+        "Restoration Architect": "Pete Dye",
+        "Year Restored": "(2008)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.528184,
+          -122.733709
+        ]
+      },
+      "properties": {
+        "Rank": "100",
+        "Course Name": "MAYACAMA G.C.",
+        "Yards": "6761",
+        "Par": "71",
+        "Points": "60.9746",
+        "Location": "Santa Rosa Calif.",
+        "Architect": "Jack Nicklaus",
+        "Year Built": "(2001)",
+        "Restoration Architect": "",
+        "Year Restored": ""
+      }
+    }
+  ]
+}
