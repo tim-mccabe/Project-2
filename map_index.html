@@ -6,6 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Leaflet Step-1</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.4/components/dropdowns/">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
   <!-- Leaflet CSS & JS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
@@ -16,21 +21,59 @@
   crossorigin=""></script>
 
   <!-- Our CSS -->
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="static/css/map_style.css">
 </head>
 
 <body>
-  <!-- The div where we will inject our map -->
-  <div id="map"></div>
-
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+      <body class="container-fluid body-design">
+        <div>
+          <header>
+              <div class="d-flex flex-column mb-3 bg-white sm-bg-blue">
+                  <nav class="navbar navbar-expand-lg navbar-light bg-light sm-bg-blue navbar-expand-sm">
+                      <a class="navbar-brand title text-wrap" href="index.html">US Golf</a>
+                        <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                          <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link sm-bg-blue" href="map_index.html">Chart 1</a>
+                            </li>
+                            <li>
+                                <a class="nav-link sm-bg-blue" href="scatter.html">Chart 2</a>    
+                            </li>
+                            </ul>
+                      </div>
+                    </nav>
+                </div>    
+                </nav>
+                <div class="hero text-center" id="hero-image">
+                  <h1>Top 100 US Golf Courses</h1>
+                </div>
+              <div class="container">
+                <div class="row margin-top-50">
+                  <div class="col-md-10">
+                      <!-- The div where we will inject our map -->
+                    <div id="map"></div>
+                  </div>
+                </div>
+              </div>
+              <footer class="footer">
+                <span class="bottom">Golf Courses</span>
+              </footer>
+            </div>
   <!-- Leaflet JavaScript -->
   <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
   <!-- D3 JavaScript -->
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
 
   <!-- API key -->
-  <script type="text/javascript" src="config.js"></script>
+  <script type="text/javascript" src="static/js/config.js"></script>
   <!-- Our JS -->
-  <script type="text/javascript" src="logic.js"></script>
-</body>
+  <script type="text/javascript" src="static/js/logic.js"></script>
+          </header>
+       </body>
+  </body>
 </html>

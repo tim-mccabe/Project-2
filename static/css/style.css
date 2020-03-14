@@ -133,7 +133,7 @@ select {
   padding: 1px;
   margin: 0;
   background: rgb(255, 255, 255);
-  background-image: url(../images/golf_image.jpg);
+  background-image: url("/images/golf_image.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
