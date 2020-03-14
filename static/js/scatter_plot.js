@@ -30,8 +30,8 @@ var chosenXAxis = "Year_Built";
 function xScale(golfData, chosenXAxis) {
     // create scales
     var xLinearScale = d3.scaleLinear()
-      .domain([d3.min(golfData, d => d[chosenXAxis]) * 0.8,
-        d3.max(golfData, d => d[chosenXAxis]) * 1.2
+      .domain([d3.min(golfData, d => d[chosenXAxis]) * 0.995,
+        d3.max(golfData, d => d[chosenXAxis]) * 1.02
       ])
       .range([0, width]);
   
@@ -64,7 +64,7 @@ function renderCircles(circlesGroup, newXScale, chosenXaxis) {
 // function used for updating circles group with new tooltip
 function updateToolTip(chosenXAxis, circlesGroup) {
 
-    if (chosenXAxis === "Year Built") {
+    if (chosenXAxis === "Year_Built") {
       var label = "Year Built:";
     }
     else {
@@ -84,7 +84,7 @@ function updateToolTip(chosenXAxis, circlesGroup) {
       toolTip.show(data);
     })
       // onmouseout event
-      .on("mouseout", function(data, index) {
+      .on("mouseout", function(data) {
         toolTip.hide(data);
       });
   
@@ -101,21 +101,6 @@ d3.csv("full_data_set.csv").then(function(golfData, err) {
       data.Year_Built = +data.Year_Built;
       data.Yards = +data.Yards;
     });
-
-// Store our API endpoint as queryUrl
-// var Url = "http://localhost:52330/json_data";
-
-// Perform a GET request to the query URL
-// d3.json(Url, function(golfData) {
-//   console.log(golfData);
-
-//     // parse data
-//     golfData.forEach(function(data) {
-//         data.Rank = +data.Rank;
-//         data.Year_Built = +data.Year_Built;
-//         data.Yards = +data.Yards;
-//     });
-// });
 
   // xLinearScale function above csv import
   var xLinearScale = xScale(golfData, chosenXAxis);
@@ -146,7 +131,7 @@ d3.csv("full_data_set.csv").then(function(golfData, err) {
     .append("circle")
     .attr("cx", d => xLinearScale(d[chosenXAxis]))
     .attr("cy", d => yLinearScale(d.Rank))
-    .attr("r", 20)
+    .attr("r", 7)
     .attr("fill", "green")
     .attr("opacity", ".75");
 
@@ -207,18 +192,18 @@ d3.csv("full_data_set.csv").then(function(golfData, err) {
 
      // changes classes to change bold text
      if (chosenXAxis === "Year_Built") {
-       albumsLabel
+       yearBuiltLabel
          .classed("active", true)
          .classed("inactive", false);
-       hairLengthLabel
+       yardsLabel
          .classed("active", false)
          .classed("inactive", true);
      }
      else {
-       albumsLabel
+       yearBuiltLabel
          .classed("active", false)
          .classed("inactive", true);
-       hairLengthLabel
+       yardsLabel
          .classed("active", true)
          .classed("inactive", false);
      }
