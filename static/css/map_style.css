@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
   text-align: center;
 }
 
@@ -12,7 +12,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-}
+} */
 
 body {
   font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -107,10 +107,6 @@ select {
   outline: none;
 }
 
-#table-area th {
-  text-align: center;
-  font-size: 1rem;
-}
 
 .loader {
   margin-top: 50px;
