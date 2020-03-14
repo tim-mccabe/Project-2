@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+​
 <head>
   <meta charset="utf-8">
   <title>Top 100 Golf Courses</title>
@@ -12,7 +12,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="static/css/style.css">
 </head>
-
+​
 <body>
   <div class="wrapper">
     <nav class="navbar navbar-default">
@@ -28,10 +28,13 @@
                         <div class="collapse navbar-collapse " id="navbarSupportedContent">
                           <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
-                                <a class="nav-link sm-bg-blue" href="visualizations/chart_1.html">Chart 1</a>
+                                <a class="nav-link sm-bg-blue" href="map_index.html">Chart 1</a>
                             </li>
                             <li>
-                                <a class="nav-link sm-bg-blue" href="visualizations/chart_2.html">Chart 2</a>    
+                                <a class="nav-link sm-bg-blue" href="scatter.html">Chart 2</a>    
+                            </li>
+                            <li> 
+                                <a class="nav-link sm-bg-blue" href="other_map.html">Chart 3</a>
                             </li>
                             </ul>
                       </div>
@@ -46,17 +49,77 @@
                   <div class="col-md-2">
                     <aside class="filters">
                       <div class="panel panel-default">
-                        <div class="panel-heading">Search by Year</div>
                         <div class="panel-body">
                           <form>
                             <div class="form-group">
                               <ul class="list-group" id="filters">
-                                <li class="filter list-group-item">
-                                  <input class="form-control" id="datetime" type="text" placeholder="Choose a Year">
-                                </li>
+                                <label for="exampleFormControlSelect1">Choose an Architect</label>
+                                  <select class="form-control" id="exampleFormControlSelect1">
+                                    <option>Select an Architect</option>
+                                    <option>A.W. Tillinghast</option>
+                                    <option>Alice Dye</option>
+                                    <option>Alister MacKenzie</option>
+                                    <option>Ben Crenshaw</option>
+                                    <option>Bill Coore</option>
+                                    <option>Bob Lohmann</option>
+                                    <option>Bobby Jones</option>
+                                    <option>C.B. Macdonald</option>
+                                    <option>C.H. Alison</option>
+                                    <option>Charles Banks</option>
+                                    <option>Chet Williams</option>
+                                    <option>Dana Fry</option>
+                                    <option>David McLay Kidd</option>
+                                    <option>Desmond Muirhead</option>
+                                    <option>Devereux Emmet</option>
+                                    <option>Donald Ross</option>
+                                    <option>Douglas Grant</option>
+                                    <option>Frederic Hood</option>
+                                    <option>George C. Thomas Jr.</option>
+                                    <option>George Crump</option>
+                                    <option>George Fazio</option>
+                                    <option>Gil Hanse</option>
+                                    <option>H.C. Leeds</option>
+                                    <option>H.S. Colt</option>
+                                    <option>Henry Fownes</option>
+                                    <option>Hugh Wilson</option>
+                                    <option>J. Michael Poellot</option>
+                                    <option>J. Robert Gwynne</option>
+                                    <option>Jack Neville</option>
+                                    <option>Jack Nicklaus</option>
+                                    <option>Jack Park</option>
+                                    <option>Jay Morrish</option>
+                                    <option>Jim Engh</option>
+                                    <option>Jim Urbina</option>
+                                    <option>John Raese</option>
+                                    <option>Joseph H. Burbeck</option>
+                                    <option>Lester George</option>
+                                    <option>Michael Hurdzan</option>
+                                    <option>Mike Benkusky</option>
+                                    <option>Mike Strantz</option>
+                                    <option>Perry Maxwell</option>
+                                    <option>Pete Dye</option>
+                                    <option>Rick Smith</option>
+                                    <option>Robert Hunter</option>
+                                    <option>Robert Trent Jones</option>
+                                    <option>Ron Whitten</option>
+                                    <option>Sam Whiting</option>
+                                    <option>Sandy Tatum</option>
+                                    <option>Seth Raynor</option>
+                                    <option>Steve Wynn</option>
+                                    <option>Tom Bendelow</option>
+                                    <option>Tom Doak</option>
+                                    <option>Tom Fazio</option>
+                                    <option>Tom Weiskopf</option>
+                                    <option>Vinny Giles</option>
+                                    <option>W.P. Bell</option>
+                                    <option>Warren Henderson</option>
+                                    <option>William Flynn</option>
+                                    <option>Willie Campbell</option>
+                                    <option>Willie Park Jr.</option>
+                                    <option>Willie Watson</option>
+                                  </select>
                               </ul>
                             </div>
-                            <button id="filter-btn" type="button" class="btn btn-default">Search</button>
                           </form>
                         </div>
                       </div>
@@ -91,9 +154,8 @@
                 <span class="bottom">Golf Courses</span>
               </footer>
             </div>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+            <script src="https://d3js.org/d3.v5.js"></script>
             <script src="static/js/app.js"></script>
-            <script src="static/js/full_data_set.csv"></script>
           </header>
        </body>
   </body>
